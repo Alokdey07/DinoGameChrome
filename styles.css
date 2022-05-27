@@ -155,6 +155,11 @@ body{
     }
 }
 
+.cloudActive {
+    animation: cloudAnimate 3s linear infinite ;
+
+}
+
 #score
 {
     height: auto ;
