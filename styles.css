@@ -50,7 +50,8 @@ body{
         bottom: 28px;
 
     }
-    45%, 55%
+    45%,
+     55%
     {
         bottom: 160px;
     }
@@ -133,7 +134,7 @@ body{
 
 }
 
-#container #cloud 
+#container #cloud img
 {
     height: 80px;
     width: 2000px;
@@ -155,10 +156,10 @@ body{
     }
 }
 
-.cloudActive {
+ /*.cloudActive {
     animation: cloudAnimate 3s linear infinite ;
 
-}
+} */
 
 #score
 {
